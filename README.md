@@ -9,8 +9,14 @@ This article was originally published 8 November 2022.
 
 <AuCaption>This is caption</AuCaption>
 
-AuCaption>This is caption
-
+<AuCaption>This is caption
+\
+with
+\
+multi
+\
+lines
+</AuCaption>
 
 [Twitter account](https://twitter.com/dariolanza_art)
 
