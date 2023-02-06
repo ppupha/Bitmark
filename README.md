@@ -1,12 +1,4 @@
 # Bitmark
-<style>
-AuCaption {
-    color: grey;
-    font-size: 14px;
-}
-em {
-    font-size: 14px;}
-</style>
 
 # Diving Into Dario Lanza’s *Catharsis*
 ### Let's go deep into *Catharsis* and all the innovations it introduced
@@ -14,6 +6,14 @@ em {
 ---
 
 This article was originally published 8 November 2022. 
+
+<AuCaption>This is caption</AuCaption>
+[Twitter account](https://twitter.com/dariolanza_art)
+
+Simple Text
+
+*Italic Text*
+
 
 Last week, I discovered that an online friend (Álvaro) was my neighbor. I live in a small city in the North of Spain where there aren’t many crypto art enthusiasts (yet), so this was a big coincidence. To add to the surprise, Álvaro is Dario Lanza’s brother, who created and released *Catharsis* on [gmStudio](https://www.gmstudio.art) a few weeks ago.
 
