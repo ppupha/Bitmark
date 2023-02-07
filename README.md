@@ -10,3 +10,6 @@ multi
 \
 line
 </AuCaption>
+
+<AuCaption>This is Another Caption</AuCaption>
+
